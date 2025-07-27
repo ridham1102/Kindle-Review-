@@ -48,7 +48,3 @@ The notebook demonstrates the process of building and evaluating sentiment analy
 
 The results show the accuracy of the Gaussian Naive Bayes model for both the Bag-of-Words and TF-IDF representations. Further analysis and potentially trying different models or hyperparameter tuning could improve the performance.
 
-## How to Run the Notebook
-
-1.  Upload the `all_kindle_review.csv` file to your Colab environment.
-2.  Run all the cells in the notebook sequentially. The output of each cell will show the progress and results of each step.
